@@ -1,4 +1,4 @@
-# MP Project Expenses Project
+# MP Expenses Project
 ## by Darren Christie
 
 This project uses a Jupyter notebook to analyse an MP's expenses claims from May 2010 - April 2020.
